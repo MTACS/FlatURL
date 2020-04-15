@@ -1,0 +1,9 @@
+Package: com.mtac.flaturl
+Name: FlatURL
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Remove the background of Safari's URL bar
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
